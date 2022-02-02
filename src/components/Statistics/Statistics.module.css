@@ -1,0 +1,42 @@
+.statistics {
+  width: 300px;
+  margin: 30px 0;
+  border-radius: 5px;
+  background-color: #ffffff;
+  text-align: center;
+}
+
+.title {
+  margin: 30px 0;
+  text-transform: uppercase;
+  color: #525a61;
+  font-size: 20px;
+}
+
+.list {
+  display: flex;
+  color: #ffffff;
+  background-color: blueviolet;
+}
+
+.item {
+  padding: 10px;
+  width: 20%;
+}
+
+.item:not(:last-child) {
+  border-right: 1px solid #ffffff;
+}
+
+.item:nth-child(even) {
+  background-color: plum;
+}
+.label {
+  display: block;
+  font-size: 14px;
+  margin-bottom: 5px;
+}
+
+.percentage {
+  font-size: 18px;
+}
