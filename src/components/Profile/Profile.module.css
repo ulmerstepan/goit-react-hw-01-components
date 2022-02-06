@@ -1,22 +1,3 @@
-h1,
-h2,
-h3,
-p,
-ul,
-a {
-  margin-top: 0;
-  margin-bottom: 0;
-  padding-left: 0;
-  list-style: none;
-  text-decoration: none;
-}
-
-img {
-  display: block;
-  max-width: 100%;
-  height: auto;
-}
-
 .profile {
   width: 300px;
 

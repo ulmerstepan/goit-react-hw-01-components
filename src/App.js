@@ -10,8 +10,6 @@ import FriendsList from './components/FriendsList/FriendList';
 import transactions from './data/transactions.json';
 import TransactionHistory from './components/TransactionHistory/TransactionHistory';
 
-// import Container from './components/Container/Container';
-
 export default function App() {
   return (
     <>
