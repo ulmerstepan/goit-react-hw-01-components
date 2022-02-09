@@ -17,7 +17,7 @@ export const TableHead = styled.thead`
 
 export const TableRow = styled.tr`
   height: 40px;
-  &:nth-child(even) {
+  &:nth-of-type(even) {
     background-color: #ecf1f3;
   }
 `;
